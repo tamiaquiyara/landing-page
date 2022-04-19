@@ -1,0 +1,35 @@
+body {
+    background-color: #723747;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1em;
+    color: #1f0f13;
+}
+
+.header {
+    background-color: #9e415a;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    height: 6em;
+    border-radius: 0.8em;
+}
+
+.main {
+    background-color: #9c4b60;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    height: 12em;
+    border-radius: 0.8em;
+}
+
+.content a {
+    padding: 1em;
+    width: 4em;
+    text-decoration: none;
+    color: #1f0f13;
+border-radius: 0.8em;}
+
+.content a:hover {
+    background-color : #723747;
+}
